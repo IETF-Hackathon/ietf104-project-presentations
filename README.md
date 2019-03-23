@@ -2,7 +2,7 @@
 
 This repo is for IETF hackathon participants to upload their hackathon project presentations. The contents of this repo will be used as the source for all project presentations at the end of the hackathon. Presentations will be presented from a shared ChromeBook at the front of the hackathon room.
 
-You <span style="color:red">some MUST be a [member](https://github.com/orgs/IETF-Hackathon/people)</span> of the [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org to upload a new presentation or update/replace an existing presentation. 
+You <span style="color:red">MUST be a [member](https://github.com/orgs/IETF-Hackathon/people)</span> of the [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org to upload a new presentation or update/replace an existing presentation. 
 
 To be added as a member, send your GitHub ID to [Charles Eckel](mailto:eckelcu@cisco.com) at your earliest convenience. <span style="color:red">DO NOT WAIT</span> until just before hackathon project presentations start or your request may be lost in the chaos.
 
